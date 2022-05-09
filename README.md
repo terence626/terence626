@@ -1,3 +1,4 @@
+# https://terence626.github.io/
 - 👋 Hi, I’m @terence626
 - 👀 I’m interested in Badminton, Pickleball, learning new technologies, etc!
 - 🌱 I’m currently learning full-stack web development at QCC (Queensborough Community College) and with Angela Yu @ Udemy.
